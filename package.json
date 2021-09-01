@@ -1,0 +1,24 @@
+{
+  "name": "javascript_profesional",
+  "version": "1.0.0",
+  "description": "Respositorio para el curso de javascript profesional de platzi",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosVF22/javaScript_profesional.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosVF22/javaScript_profesional/issues"
+  },
+  "homepage": "https://github.com/CarlosVF22/javaScript_profesional#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
